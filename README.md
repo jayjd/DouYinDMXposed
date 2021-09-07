@@ -2,9 +2,8 @@
 # DouYinDMXposed
 使用xposed框架制作一个 获取抖音弹幕的模块
 
-
 需要定制Xposed模块的可以联系我 chenglj9010@gmail.com
-#免责声明
+﻿#免责声明
 有任何问题可交流学习  
 请勿使用本服务于商用  
 请勿使用本服务大量抓取  
